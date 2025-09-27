@@ -1,6 +1,7 @@
 {
   "name": "mohtashim-portfolio",
   "version": "1.0.0",
+  "homepage": "https://mohtashim-syed.github.io/portfolio",
   "private": true,
   "dependencies": {
     "react": "^18.0.0",
